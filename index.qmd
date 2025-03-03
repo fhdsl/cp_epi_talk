@@ -1,0 +1,69 @@
+---
+title: "CP & EPI Postdoc/Grad Student Meeting"
+format: revealjs
+---
+
+## Quick Intro
+
+::::{.columns}
+:::{.column width="50%"}
+- [Ted Laderas, PhD](https://laderast.github.io)
+- Director of Training and Community for Data Science Lab
+- 20+ years in Data Science / Bioinformatics Analysis
+- Passionate about teaching and learning
+:::
+:::{.column width="50%"}
+![](LaderasTed-small.jpg)
+:::
+::::
+
+## What is the Data Science Lab?
+
+- [hutchdatascience.org](https://hutchdatascience.org)
+- Outreach and Learning Arm of the Office of the Chief Data Officer
+- Dedicated to helping people get better at working with Data
+- Not just for Data Scientists!
+- Psychologically Safe Space to ask questions and learn
+
+## Who Can Take Our Courses?
+
+- Anyone in the Fred Hutch Consortium!
+
+## Upcoming Courses in Spring (Starts 3rd week of April)
+
+Look out for Registration Soon!
+
+- Intro to R
+- Intro to Python
+- Intro to SQL
+- Genomics with Bioconductor (Coming soon!)
+
+## Upcoming Workshops in Spring
+
+- Better Spreadsheets
+- Better Plots
+- AI for Coding
+- Intro to Command Line
+- Intro to HPC
+- Intro to Notebooks
+
+## Events: Community Sessions and Datathon
+
+- 3-4 Hour session where we look at a dataset together
+- [Datathon Example](https://datathon2024.netlify.app/)
+- [Winter Datathon RSVP 3/14](https://www.addevent.com/event/DT25070870)
+
+## Data Snacks
+
+Quick Tutorials that Run in Your Browser!
+
+- [Data Snacks Page](https://hutchdatascience.org/data_snacks/)
+    - [gtsummary](https://hutchdatascience.org/data_snacks/r_snacks/gtsummary.html)
+    - [Crosstables with Janitor](https://hutchdatascience.org/data_snacks/r_snacks/janitor.html)
+    - [Learning R as a SAS user](https://hutchdatascience.org/data_snacks/r_snacks/sas2r.html)
+
+## Join our Mailing List
+
+Send a blank email to <mailto:dasltraining@lists.fhcrc.org> 
+
+# Ask Me Two Questions
