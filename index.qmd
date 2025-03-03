@@ -29,9 +29,20 @@ format: revealjs
 
 - Anyone in the Fred Hutch Consortium!
 
+## Taxonomy of Courses
+
+```{mermaid}
+mindmap
+	Root((Taxonomy))
+		(Data Science Programming)
+		(Transparent Research)
+		(Scalable Computing)
+		(Data4All)
+```
+
 ## Upcoming Courses in Spring (Starts 3rd week of April)
 
-Look out for Registration Soon!
+[Look out for Registration Soon Here!](https://hutchdatascience.org/courses)
 
 - Intro to R
 - Intro to Python
